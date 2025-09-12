@@ -1,7 +1,7 @@
 # PayeerBilling — плагин приема платежей для Cotonti
 
 ## Описание
-**PayeerBilling** — это платежный плагин для CMS **Cotonti** (начиная с версии 0.9.26, PHP 8.4+), который интегрирует модуль [Payments](https://github.com/Cotonti/Cotonti/tree/master/modules/payments) с платежной системой **[https://payeer.com](https://payeer.com/?partner=7479062)**.
+**PayeerBilling** — это платежный плагин для CMS **Cotonti** (начиная с версии 0.9.26, PHP 8.4+), который интегрирует модуль [Payments](https://github.com/webitproff/cot_2waydeal_build/tree/master/public_html/modules/payments) с платежной системой **[https://payeer.com](https://payeer.com/?partner=7479062)**.
 
 Плагин позволяет принимать онлайн-платежи на сайте с использованием Payeer, включая поддержку не только традиционных валют, но и криптовалют.
 
